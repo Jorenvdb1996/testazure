@@ -1,10 +1,10 @@
-package be.thomasmore.gratuaten.hethalfkieke.hethalfkieke;
+package graduaten.hethalfkieke2;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class HetHalfKiekeApplicationTests {
+class HetHalfKieke2ApplicationTests {
 
     @Test
     void contextLoads() {
